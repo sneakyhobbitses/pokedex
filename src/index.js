@@ -9,8 +9,7 @@ class App extends React.Component {
         return (
             <div>
                 <h1>POKEDEX</h1>
-                <p><Pokecard
-                /></p>
+                <p><Pokecard /></p>
                 <p><Pokecard /></p>
                 <p><Pokecard /></p>
             </div>
