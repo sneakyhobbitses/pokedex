@@ -1,0 +1,18 @@
+.Pokecard {
+    background-color: plum;
+    width:200px;
+    height:300px;
+    border:dotted;
+    border-color:turquoise;
+    border-width:10px;
+    text-align: center;
+};
+
+.Pokemon {
+    background-color: pink;
+    color: black;
+}
+
+body {
+    background-color: palegoldenrod;
+}
